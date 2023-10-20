@@ -1,0 +1,15 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "My attempt at learning JS Syntax and algorithmic thinking by tackling DSA problems that even the algorithm gnomes might find chuckle-worthy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
