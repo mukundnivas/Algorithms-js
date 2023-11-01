@@ -1,6 +1,6 @@
 # algorithms-js
 
-My attempt at learning JS Syntax and algorithmic thinking by tackling DSA problems that even the algorithm gnomes might find chuckle-worthy!
+My attempt at learning JS Syntax, unit testing and developing algorithmic thinking by tackling DSA problems that even the algorithm gnomes might find chuckle-worthy!
 
 Each folder contains the following:
 
