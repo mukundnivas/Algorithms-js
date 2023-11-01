@@ -6,3 +6,14 @@ Each folder contains the following:
 
 - Alogorithm to the problem
 - Unit test (Jest)
+
+# To-do's: 
+- ~~warm-up problems~~
+- Arrays and strings
+- Recursion and Backtracking
+- Linked lists
+- Stacks and Queues
+- Searching and Sorting
+- Dynamic Programming
+- Trees and Graphs
+- Dockerize the app and render the algorithm tests on local server (Optional)
