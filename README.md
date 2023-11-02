@@ -14,7 +14,8 @@ To run the algorithms
 
 # To-do's: 
 - [x] Warm up problems (In progress)
-- [ ] Recursion and Backtracking
+- [x] Recursion (In progress)
+- [ ] Backtracking
 - [ ] Linked lists
 - [ ] Stacks and Queues
 - [ ] Searching and Sorting
