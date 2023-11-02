@@ -13,7 +13,7 @@ To run the algorithms
 - ```npm test``` 
 
 # To-do's: 
-- [x] Warm up problems
+- [x] Warm up problems (In progress)
 - [ ] Recursion and Backtracking
 - [ ] Linked lists
 - [ ] Stacks and Queues
