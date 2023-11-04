@@ -1,5 +1,11 @@
 const isBinarySearch = (searchArray, element) => {
-  return true;
+  for (let i = 0; i < searchArray.length; i++) {
+    if (searchArray[i] === element) {
+      return true;
+    }
+  }
+
+  return false;
 };
 
 module.exports = isBinarySearch;
