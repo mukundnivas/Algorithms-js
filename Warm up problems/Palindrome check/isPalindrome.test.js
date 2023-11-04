@@ -11,3 +11,7 @@ test("Check if 'MOM' is a palindrome", () => {
 test("Check if 'happy' is a palindrome", () => {
   expect(isPalindrome("happy")).toBe(false);
 });
+
+test("Check if 'raar' is a palindrome", () => {
+  expect(isPalindrome("raar")).toBe(true);
+});
