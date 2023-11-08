@@ -6,6 +6,7 @@ Each folder contains the following:
 
 - Alogorithm to the problem
 - Unit test (Jest)
+- Leetcode QOD (Question of the day)
 
 To run the algorithms
 - Clone the repo
