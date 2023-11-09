@@ -48,4 +48,4 @@ Output:
 
 Note:
 
-The index i provided to get(int i) and set(int i) is guranteed to be greater than or equal to 0 and less than the number of elements in the array
+The index `i` provided to `get(int i)` and `set(int i)` is guranteed to be greater than or equal to 0 and less than the number of elements in the array
