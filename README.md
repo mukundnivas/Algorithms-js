@@ -9,7 +9,7 @@ Each folder contains the following:
 
   
 ## In Progress's: 
-- Array's & Hashing (In progress)
+- Arrays & Hashing (In progress)
 - LeetCode JS 30-day Challenge (In progress)
 - LeetCode Question of the Day (In progress)
   
