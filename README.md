@@ -4,7 +4,7 @@ My attempt at learning JS Syntax, unit testing and developing algorithmic thinki
 
 Each folder contains the following:
 
-- Algoritm - #*LeetcodeProblemNumber* *ProblemName*.js 
+- Algorithm - #*LeetcodeProblemNumber* *ProblemName*.js 
 - Leetcode Problem Markdown -  #*LeetcodeProblemNumber* *ProblemName*.md 
 
   
